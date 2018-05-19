@@ -1,5 +1,5 @@
 # RFBlocks
-PCB blocks for fast RF prototyping
+Universal PCB blocks for fast SMA prototyping
 
 ## References
 - https://www.hexabitz.com/
